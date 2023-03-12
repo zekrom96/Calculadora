@@ -12,6 +12,7 @@ package calculadora;
  * comeme la polla crixu
  * crixu comemela x2
  * comemela x3
+ * comemela x4
  */
 public class Calculadora {
     private int num1;
