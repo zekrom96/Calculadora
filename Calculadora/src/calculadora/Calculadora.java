@@ -9,6 +9,7 @@ package calculadora;
  *
  * @author david zekrom 1 modificacion con comandos
  * comentario añadido desde github web
+ * comeme la polla crixu
  */
 public class Calculadora {
     private int num1;
