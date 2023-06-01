@@ -10,6 +10,7 @@ package calculadora;
  * @author david zekrom 1 modificacion con comandos
  * la recupero por mi madre
  * no falles trozo kka
+ * cambios unicos rama 
  */
 public class Calculadora {
     private int num1;
