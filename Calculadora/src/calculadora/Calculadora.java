@@ -8,11 +8,7 @@ package calculadora;
 /**
  *
  * @author david zekrom 1 modificacion con comandos
- * comentario añadido desde github web
- * comeme la polla crixu
- * crixu comemela x2
- * comemela x3
- * comemela x4
+ * la recupero por mi madre
  */
 public class Calculadora {
     private int num1;
